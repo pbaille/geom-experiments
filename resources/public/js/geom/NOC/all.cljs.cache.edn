@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.228
+{:name geom.NOC.all, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {geom.NOC.intro geom.NOC.intro, geom.NOC.vectors geom.NOC.vectors}, :imports nil}

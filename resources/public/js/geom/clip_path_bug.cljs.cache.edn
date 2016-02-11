@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.228
+{:name geom.clip-path-bug, :doc nil, :excludes #{}, :use-macros {sel1 dommy.core, html hiccups.core}, :require-macros {hiccups hiccups.core, hiccups.core hiccups.core, hipo hipo.core, hipo.core hipo.core, d dommy.core, dommy.core dommy.core}, :uses nil, :requires {hipo.core hipo.core, dom thi.ng.domus.core, hiccups.runtime hiccups.runtime, hipo hipo.core, thi.ng.geom.svg.core thi.ng.geom.svg.core, dommy.core dommy.core, thi.ng.domus.core thi.ng.domus.core, svg thi.ng.geom.svg.core, hiccupsrt hiccups.runtime, d dommy.core}, :imports nil}

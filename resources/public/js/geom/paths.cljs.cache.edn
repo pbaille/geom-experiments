@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 1.7.228
+{:name geom.paths, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses {vec2 thi.ng.geom.core.vector}, :requires {bez thi.ng.geom.bezier, thi.ng.geom.bezier thi.ng.geom.bezier, v thi.ng.geom.core.vector, thi.ng.geom.core.vector thi.ng.geom.core.vector, dom thi.ng.domus.core, thi.ng.domus.core thi.ng.domus.core}, :imports nil}
