@@ -5732,3 +5732,31 @@ notifying browser that file changed:  out/geom/misc/paths.js
 notifying browser that file changed:  out/geom/misc/strands.js
 notifying browser that file changed:  out/geom/misc/clip_path_bug.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.506 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+"Elapsed time: 550.309804 msecs"
+Copying file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/grayscott/core.cljc to resources/public/js/geom/grayscott/core.cljc
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/geom/grayscott/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 4.018 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+"Elapsed time: 148.6622 msecs"
+Compiling /Users/pierre/Code/Clojure/generative-design/geom/src/geom/grayscott/core.cljc
+Compiling src/geom/grayscott/test.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/grayscott/core.cljc to resources/public/js/geom/grayscott/core.cljc
+notifying browser that file changed:  out/geom/grayscott/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 3.217 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /Users/pierre/Code/Clojure/generative-design/geom/src/geom/sketches/voronoi1.cljs
+Compiling src/geom/all.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/sketches/flowers.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/NOC/all.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/sketches/flowers.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/NOC/all.cljs
+Reading analysis cache for file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/all.cljs
+Copying file:/Users/pierre/Code/Clojure/generative-design/geom/src/geom/sketches/voronoi1.cljs to resources/public/js/geom/sketches/voronoi1.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/geom/sketches/voronoi1.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 2.768 seconds.[0m

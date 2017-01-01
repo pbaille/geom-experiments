@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc40b46b-94fd-4688-9aa4-072d19577270" name="Default" comment="" />
+    <list default="true" id="bc40b46b-94fd-4688-9aa4-072d19577270" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__clojure_complete_0_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Leiningen__thi_ng_typedarrays_0_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/geom/clip_path_bug.cljs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/geom/from_d3.cljs" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/figwheel_server.log" afterPath="$PROJECT_DIR$/figwheel_server.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/geom.iml" afterPath="$PROJECT_DIR$/geom.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.clj" afterPath="$PROJECT_DIR$/project.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/index.html" afterPath="$PROJECT_DIR$/resources/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/cljs_deps.js" afterPath="$PROJECT_DIR$/resources/public/js/cljs_deps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/figwheel/connect.js.map" afterPath="$PROJECT_DIR$/resources/public/js/figwheel/connect.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/all.js.map" afterPath="$PROJECT_DIR$/resources/public/js/geom/all.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.cljc" afterPath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.cljc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.cljc.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.cljc.cache.edn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.js" afterPath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.js.map" afterPath="$PROJECT_DIR$/resources/public/js/geom/grayscott/core.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/grayscott/test.js.map" afterPath="$PROJECT_DIR$/resources/public/js/geom/grayscott/test.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.cljs" afterPath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.cljs.cache.edn" afterPath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.cljs.cache.edn" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.js" afterPath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.js.map" afterPath="$PROJECT_DIR$/resources/public/js/geom/sketches/voronoi1.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geom/grayscott/core.cljc" afterPath="$PROJECT_DIR$/src/geom/grayscott/core.cljc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs" afterPath="$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/geom/grayscott/core.cljc" afterPath="$PROJECT_DIR$/target/classes/geom/grayscott/core.cljc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stale/extract-native.dependencies" afterPath="$PROJECT_DIR$/target/stale/extract-native.dependencies" />
+    </list>
     <ignored path="geom.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +40,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -20,22 +48,12 @@
     <favorites_list name="geom" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="voronoi1.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="delaunay1.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/sketches/delaunay1.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="utils.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/NOC/utils.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            <state relative-caret-position="769">
+              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -44,48 +62,18 @@
       <file leaf-file-name="flowers.cljs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geom/sketches/flowers.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="2278">
+              <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noise.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/noise.cljs">
+      <file leaf-file-name="voronoi1.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clip_path_bug.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/misc/clip_path_bug.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="paths.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/misc/paths.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strands.cljs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/geom/misc/strands.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0961337">
-              <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+            <state relative-caret-position="361">
+              <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -94,18 +82,38 @@
       <file leaf-file-name="colors.cljs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geom/utils/colors.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="684">
               <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delaunay1.cljs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/geom/sketches/delaunay1.cljs">
+      <file leaf-file-name="from_d3.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/utils/from_d3.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="18" />
+            <state relative-caret-position="-374">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prob.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/utils/prob.cljs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shapes.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/utils/shapes.cljs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -114,14 +122,37 @@
       <file leaf-file-name="svg.cljs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geom/utils/svg.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state relative-caret-position="340">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="all.cljs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/geom/all.cljs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="noise.cljs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/geom/noise.cljs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -138,7 +169,6 @@
         <option value="$PROJECT_DIR$/src/geom/elements/particle.cljs" />
         <option value="$PROJECT_DIR$/src/geom/elements/core.cljs" />
         <option value="$PROJECT_DIR$/src/geom/NOC/utils.cljs" />
-        <option value="$PROJECT_DIR$/project.clj" />
         <option value="$PROJECT_DIR$/src/geom/utils/core.cljs" />
         <option value="$PROJECT_DIR$/src/geom/utils/from_d3.cljs" />
         <option value="$PROJECT_DIR$/src/geom/from_d3.cljs" />
@@ -148,7 +178,6 @@
         <option value="$PROJECT_DIR$/src/geom/utils/colors.cljs" />
         <option value="$PROJECT_DIR$/src/geom/utils/prob.cljs" />
         <option value="$PROJECT_DIR$/src/geom/utils/shapes.cljs" />
-        <option value="$PROJECT_DIR$/src/geom/grayscott/core.cljc" />
         <option value="$PROJECT_DIR$/src/geom/sketches/flowers.cljs" />
         <option value="$PROJECT_DIR$/src/geom/grayscott/core3.cljc" />
         <option value="$PROJECT_DIR$/src/geom/grayscott/core2.cljc" />
@@ -157,24 +186,25 @@
         <option value="$PROJECT_DIR$/src/geom/clip_path_bug.cljs" />
         <option value="$PROJECT_DIR$/src/geom/utils/svg.cljs" />
         <option value="$PROJECT_DIR$/src/geom/sketches/delaunay1.cljs" />
-        <option value="$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs" />
         <option value="$PROJECT_DIR$/src/geom/noise.cljs" />
         <option value="$PROJECT_DIR$/src/geom/misc/clip_path_bug.cljs" />
         <option value="$PROJECT_DIR$/src/geom/misc/paths.cljs" />
         <option value="$PROJECT_DIR$/src/geom/misc/strands.cljs" />
+        <option value="$PROJECT_DIR$/resources/public/index.html" />
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/geom/grayscott/core.cljc" />
+        <option value="$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs" />
       </list>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1175" />
+    <option name="x" value="1195" />
     <option name="y" value="23" />
     <option name="width" value="1279" />
     <option name="height" value="1413" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -195,8 +225,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -288,14 +322,166 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sketches" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NOC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="script" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,6 +498,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
   </component>
+  <component name="ReplState" timestamp="1478698765690">{:repl-history {:ide [], :local [&quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (aget r \&quot;style\&quot;))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (.. r -style -stroke))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (.. r -style))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (.. r -fill))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (.. r -style -fill))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (println r)\n    (js-&gt;clj (.. r -style)))&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size {:style \&quot;fill: black\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        #_(println \&quot;yop\&quot;)\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset x \&quot;fill-opacity\&quot; v)))\n        false)))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (js-&gt;clj (.. r -style)))&quot; &quot;(let [r (dom/query nil \&quot;rect\&quot;)]\n    (.. r -style -fill))&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        #_(println \&quot;yop\&quot;)\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset x \&quot;fill-opacity\&quot; v)))\n        false)))&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        #_(println \&quot;yop\&quot;)\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset x \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        #_(println \&quot;yop\&quot;)\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 100\n        h 100\n        pixel-size 2\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        #_(println \&quot;yop\&quot;)\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 100\n        h 100\n        pixel-size 1\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        (swap! gs step)\n        (let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 100\n        h 100\n        pixel-size 1\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        (println \&quot;yop\&quot;)\n        (swap! gs step)\n        #_(let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 100\n        h 100\n        pixel-size 1\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        (println \&quot;yop\&quot;)\n        (step @gs)\n        #_(let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [w 100\n        h 100\n        pixel-size 1\n        gs (atom (grayscott w h false))\n        gs1 (grayscott w h false)\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))\n\n        _ (svg \&quot;#app\&quot;\n               {:width (* w pixel-size) :height (* h pixel-size)}\n               (map-indexed (fn [i v]\n                              (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size\n                                        {:style \&quot;fill: black; fill-opacity: 1\&quot;}))\n                            (:u @gs)))\n\n        rects (array-seq (dom/query-all nil \&quot;rect\&quot;))]\n\n    (animate\n      (fn [_]\n        (println \&quot;yop\&quot;)\n        (step gs1)\n        #_(let [u (:u @gs)]\n          (doseq [[v x] (map vector u rects)]\n            (aset (.-style x) \&quot;fill-opacity\&quot; v)))\n        true)))&quot; &quot;(let [a (array 1 2 3)]\n  (aset a 2 1)\n  a)&quot; &quot;(time (dotimes [x (range 100000)] (let [a (array 1 2 3)]\n  (aset a 2 1)\n  a)))&quot; &quot;(time \n  (dotimes [x (range 100000)] \n    (let [a (vector 1 2 3)]\n      (assoc a 2 1)\n      a)))&quot; &quot;(time \n  (dotimes [x (range 100000)] \n    (let [a (vector 1 2 3)]\n      (assoc a 2 1))))&quot; &quot;(time \n  (dotimes [x (range 100000)] \n    (let [a (array 1 2 3)]\n    (aset a 2 1)\n    a)))&quot; &quot;(let [gs (atom (grayscott 400 400 nil))]\n    (time\n      (dotimes [x (range 100000)]\n        (swap! gs upd 1))))&quot; &quot;(time (take 100000 (iterate #(upd % 1) (grayscott 400 400 nil))))&quot; &quot;(time (take 1000 (iterate #(upd % 1) (grayscott 400 400 nil))))&quot; &quot;(time \n    (reduce (fn [a f] (f a))\n          (grayscott 400 400 nil)\n          (repeat 10000 #(upd % 1))))&quot; &quot;(time\n    (reduce (fn [a f] (f a))\n          (grayscott 400 400 nil)\n          (repeat 10000 #(upd % 1))))&quot; &quot;(let [gs (atom (grayscott 400 400 nil))]\n    (time\n      (dotimes [x (range 1000)]\n        (swap! gs upd 1))))&quot; &quot;(let [gs (atom (grayscott 400 400 nil))]\n    (time\n      (dotimes [x (range 10)]\n        (swap! gs upd 1))))&quot; &quot;(+ 1 2)&quot; &quot;(let [gs (atom (grayscott 400 400 nil))]\n    (swap! gs upd 1)\n    nil)&quot; &quot;(time (let [gs (atom (grayscott 400 400 nil))]\n    (swap! gs upd 1)\n    nil))&quot; &quot;(time (let [gs (atom (grayscott 40 40 nil))]\n    (swap! gs upd 1)\n    nil))&quot; &quot;(time (let [gs (atom (grayscott 40 40 nil))]\n          (swap! gs upd 1)\n          nil))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (dotimes [x (range 1000)]\n             (swap! gs upd 1))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (dotimes [x (range 1000)] \n            (upd gs 1))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (dotimes [x (range 1000)] \n            (println (upd gs 1)))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (doseq [x (range 1000)]\n            (upd gs 1))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (doseq [x (range 1000)]\n            (upd @gs 1))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (doseq [x (range 10)]\n            (upd @gs 1))))&quot; &quot;(let [gs (atom (grayscott 40 40 nil))]\n    (time (doseq [x (range 100)]\n            (upd @gs 1))))&quot; &quot;(let [gs (grayscott 400 400 nil)]\n    (time (dotimes [x (range 100)]\n            (upd gs 1))))&quot; &quot;(let [gs (grayscott 400 400 nil)]\n    (time (dotimes [x (range 100)]\n            x\n            (upd gs 1))))&quot; &quot;(let [gs (grayscott 400 400 nil)]\n    (time (doseq [x (range 100)]\n            x\n            (upd gs 1))))&quot; &quot;(let [gs (grayscott 400 400 nil)]\n    (time (doseq [x (range 10)]\n            x\n            (upd gs 1))))&quot; &quot;(grayscott 400 400 nil)&quot; &quot;(time (upd (grayscott 400 400 nil) 1))&quot; &quot;(time (do (upd (grayscott 400 400 nil) 1) nil))&quot; &quot;(time (do (upd (grayscott 200 200 nil) 1)\n            (upd (grayscott 200 200 nil) 1)nil))&quot; &quot;(defn upd2 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        w1 (dec w)\n        h1 (dec h)]\n\n    (reduce (fn [gs [x y]]\n              (let [idx (+ x (* y w))\n                    top (- idx w)\n                    bottom (+ idx w)\n                    left (dec idx)\n                    right (inc idx)\n                    f (get-f gs x y)\n                    k (get-k gs x y)\n                    cu (get u idx)\n                    cv (get v idx)\n                    d2 (* cu cv cv)]\n\n                (-&gt; gs\n                    (assoc-in [:u idx] (max 0 (+ cu\n                                                 (* t\n                                                    (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                   (* 4 cu)))\n                                                          d2)\n                                                       (* f (- 1.0 cu)))))))\n                    (assoc-in [:v idx] (max 0 (+ cv\n                                                 (* t\n                                                    (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                   (* 4 cv)))\n                                                          d2)\n                                                       (* k cv)))))))))\n            gs\n            (for [x (range 1 w1)\n                  y (range 1 h1)]\n              [x y]))))&quot; &quot;(time (do (upd2 (grayscott 200 200 nil) 1)\n            (upd2 (grayscott 200 200 nil) 1)\n            nil))&quot; &quot;(defn upd [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        w1 (dec w)\n        h1 (dec h)\n        [tu tv] (reduce (fn [[tu tv] [x y]]\n                          (let [idx (+ x (* y w))\n                                top (- idx w)\n                                bottom (+ idx w)\n                                left (dec idx)\n                                right (inc idx)\n                                ;f (get-f gs x y)\n                                ;k (get-k gs x y)\n                                cu (get u idx)\n                                cv (get v idx)\n                                d2 (* cu cv cv)]\n\n                            [(assoc! tu idx (max 0 (+ cu\n                                                      (* t\n                                                         (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                        (* 4 cu)))\n                                                               d2)\n                                                            (* f (- 1.0 cu)))))))\n\n\n                             (assoc! tv idx (max 0 (+ cv\n                                                      (* t\n                                                         (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                        (* 4 cv)))\n                                                               d2)\n                                                            (* k cv))))))]))\n                        [(transient u) (transient v)]\n                        (for [x (range 1 w1)\n                              y (range 1 h1)]\n                          [x y]))]\n    (assoc gs :u (persistent! tu)\n              :v (persistent! tv))))&quot; &quot;(time (do (upd (grayscott 200 200 nil) 1)\n            (upd (grayscott 200 200 nil) 1)\n            nil))&quot; &quot;(defn upd3 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        w1 (dec w)\n        h1 (dec h)\n        gs (transient gs)]\n\n    (reduce (fn [gs [x y]]\n              (let [idx (+ x (* y w))\n                    top (- idx w)\n                    bottom (+ idx w)\n                    left (dec idx)\n                    right (inc idx)\n                    f (get-f gs x y)\n                    k (get-k gs x y)\n                    cu (get u idx)\n                    cv (get v idx)\n                    d2 (* cu cv cv)]\n\n                (-&gt; gs\n                    (assoc-in! [:u idx] (max 0 (+ cu\n                                                 (* t\n                                                    (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                   (* 4 cu)))\n                                                          d2)\n                                                       (* f (- 1.0 cu)))))))\n                    (assoc-in! [:v idx] (max 0 (+ cv\n                                                 (* t\n                                                    (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                   (* 4 cv)))\n                                                          d2)\n                                                       (* k cv)))))))))\n            gs\n            (for [x (range 1 w1)\n                  y (range 1 h1)]\n              [x y]))))&quot; &quot;(defn upd [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        w1 (dec w)\n        h1 (dec h)\n        [tu tv] (reduce (fn [[tu tv] [x y]]\n                          (let [idx (+ x (* y w))\n                                top (- idx w)\n                                bottom (+ idx w)\n                                left (dec idx)\n                                right (inc idx)\n                                f (get-f gs x y)\n                                k (get-k gs x y)\n                                cu (get u idx)\n                                cv (get v idx)\n                                d2 (* cu cv cv)]\n\n                            [(assoc! tu idx (max 0 (+ cu\n                                                      (* t\n                                                         (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                        (* 4 cu)))\n                                                               d2)\n                                                            (* f (- 1.0 cu)))))))\n\n\n                             (assoc! tv idx (max 0 (+ cv\n                                                      (* t\n                                                         (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                        (* 4 cv)))\n                                                               d2)\n                                                            (* k cv))))))]))\n                        [(transient u) (transient v)]\n                        (for [x (range 1 w1)\n                              y (range 1 h1)]\n                          [x y]))]\n    (assoc gs :u (persistent! tu)\n              :v (persistent! tv))))&quot; &quot;(time (upd (grayscott 200 200 nil) 1))&quot; &quot;(time (do (upd (grayscott 200 200 nil) 1) nil))&quot; &quot;(defn upd3 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        tu (transient u)\n        tv (transient v)\n        w1 (dec w)\n        h1 (dec h)\n\n        temp (reduce (fn [[tu tv] [x y]]\n                       (let [idx (+ x (* y w))\n                             top (- idx w)\n                             bottom (+ idx w)\n                             left (dec idx)\n                             right (inc idx)\n                             f (get-f gs x y)\n                             k (get-k gs x y)\n                             cu (get u idx)\n                             cv (get v idx)\n                             d2 (* cu cv cv)]\n\n                         [(assoc! tu idx (max 0 (+ cu\n                                                   (* t\n                                                      (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                     (* 4 cu)))\n                                                            d2)\n                                                         (* f (- 1.0 cu)))))))\n\n\n                          (assoc! tv idx (max 0 (+ cv\n                                                   (* t\n                                                      (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                     (* 4 cv)))\n                                                            d2)\n                                                         (* k cv))))))]))\n                     [(transient u) (transient v)]\n                     (for [x (range 1 w1)\n                           y (range 1 h1)]\n                       [x y]))\n        [tu tv] (if-not is-tilling\n                  temp\n                  (let [w2 (dec w1)\n                        idxH1 (* h1 w)\n                        idxH2 (* (dec h1) w)\n\n                        temp (reduce\n                               (fn [[tu tv] x]\n                                 (let [left (if (zero? x) w1 (dec x))\n                                       right (if (= w1 x) 0 (inc x))\n                                       idx (+ idxH1 x)\n                                       cu (get u x)\n                                       cv (get v x)\n                                       cui (get u idx)\n                                       cvi (get v idx)\n                                       d1 (* cu cv cv)\n                                       d2 (* cui cvi cvi)]\n\n                                   [(-&gt; tu\n                                        (assoc! x (max 0 (+ cu\n                                                            (* t (+ (- (* du (- (+ (get u right) (get u left) (get u (+ w x)) cui)\n                                                                                (* 4 cu)))\n                                                                       d1)\n                                                                    (* f (- 1.0 cu)))))))\n                                        (assoc! idx (max 0 (+ cui\n                                                              (* t (+ (- (* du (- (+ (get u (+ idxH1 right)) (get u (+ idxH1 left)) cu (get u (+ idxH2 x)))\n                                                                                  (* 4 cui)))\n                                                                         d2)\n                                                                      (* f (- 1.0 cui))))))))\n                                    (-&gt; tv\n                                        (assoc! x (max 0 (+ cv\n                                                            (* t (- (+ (* dv (- (+ (get v right) (get v left) (get v (+ w x)) cvi)\n                                                                                (* 4 cv)))\n                                                                       d1)\n                                                                    (* k cv))))))\n                                        (assoc! idx (max 0 (+ cvi\n                                                              (* t (- (+ (* dv (- (+ (get v (+ idxH1 right)) (get v (+ idxH1 left)) cv (get v (+ idxH2 x)))\n                                                                                  (* 4 cvi)))\n                                                                         d2)\n                                                                      (* k cvi)))))))]))\n                               temp\n                               (range 0 w))]\n                    (reduce\n                      (fn [[tu tv] y]\n                        (let [idx (* y w)\n                              idxW1 (+ idx w1)\n                              idxW2 (+ idx w2)\n                              cu (get u idx)\n                              cv (get v idx)\n                              cui (get u idxW1)\n                              cvi (get v idxW1)\n                              d1 (* cu cv cv)\n                              d2 (* cui cvi cvi)\n                              up (* w (if (zero? y) h1 (dec y)))\n                              down (* w (if (= h1 y) 0 (inc y)))]\n\n                          [(-&gt; tu\n                               (assoc! idx (max 0 (+ cu\n                                                     (* t (+ (- (* du (- (+ (get u (inc idx)) cui (get u down) (get u up))\n                                                                         (* 4 cu)))\n                                                                d1)\n                                                             (* f (- 1.0 cu)))))))\n\n                               (assoc! idxW1 (max 0 (+ cui\n                                                       (* t (+ (- (* du (- (+ cu (get u idxW2) (get u (+ w1 down)) cu (get u (+ up w1)))\n                                                                           (* 4 cui)))\n                                                                  d2)\n                                                               (* f (- 1.0 cui))))))))\n\n                           (-&gt; tv\n                               (assoc! idx (max 0 (+ cv\n                                                     (* t (- (+ (* dv (- (+ (get v (inc idx)) cvi (get v down) (get v up))\n                                                                         (* 4 cv)))\n                                                                d1)\n                                                             (* k cv))))))\n\n                               (assoc! idxW1 (max 0 (+ cvi\n                                                       (* t (- (+ (* dv (- (+ cv (get v idxW2) (get v (+ down w1)) (get v (+ up w1)))\n                                                                           (* 4 cvi)))\n                                                                  d2)\n                                                               (* k cvi)))))))]))\n                      temp\n                      (range 0 h))))]\n    (assoc gs :u (persistent! tu)\n              :v (persistent! tv))))&quot; &quot;(time (do (upd3 (grayscott 200 200 nil) 1) nil))&quot; &quot;(defn upd3 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        tu (transient u)\n        tv (transient v)\n        w1 (dec w)\n        h1 (dec h)\n\n        temp (reduce (fn [[tu tv] [x y]]\n                       (let [idx (+ x (* y w))\n                             top (- idx w)\n                             bottom (+ idx w)\n                             left (dec idx)\n                             right (inc idx)\n                             f (get-f gs x y)\n                             k (get-k gs x y)\n                             cu (get u idx)\n                             cv (get v idx)\n                             d2 (* cu cv cv)]\n\n                         [(assoc! tu idx (max 0 (+ cu\n                                                   (* t\n                                                      (+ (- (* du (- (+ (get u right) (get u left) (get u bottom) (get u top))\n                                                                     (* 4 cu)))\n                                                            d2)\n                                                         (* f (- 1.0 cu)))))))\n\n\n                          (assoc! tv idx (max 0 (+ cv\n                                                   (* t\n                                                      (- (+ (* dv (- (+ (get v right) (get v left) (get v bottom) (get v top))\n                                                                     (* 4 cv)))\n                                                            d2)\n                                                         (* k cv))))))]))\n                     [(transient u) (transient v)]\n                     (for [x (range 1 w1)\n                           y (range 1 h1)]\n                       [x y]))\n        [tu tv] (if-not is-tilling\n                  temp\n                  (let [w2 (dec w1)\n                        idxH1 (* h1 w)\n                        idxH2 (* (dec h1) w)\n\n                        temp (reduce\n                               (fn [[tu tv] x]\n                                 (println \&quot;here\&quot;)\n                                 (let [left (if (zero? x) w1 (dec x))\n                                       right (if (= w1 x) 0 (inc x))\n                                       idx (+ idxH1 x)\n                                       cu (get u x)\n                                       cv (get v x)\n                                       cui (get u idx)\n                                       cvi (get v idx)\n                                       d1 (* cu cv cv)\n                                       d2 (* cui cvi cvi)]\n\n                                   [(-&gt; tu\n                                        (assoc! x (max 0 (+ cu\n                                                            (* t (+ (- (* du (- (+ (get u right) (get u left) (get u (+ w x)) cui)\n                                                                                (* 4 cu)))\n                                                                       d1)\n                                                                    (* f (- 1.0 cu)))))))\n                                        (assoc! idx (max 0 (+ cui\n                                                              (* t (+ (- (* du (- (+ (get u (+ idxH1 right)) (get u (+ idxH1 left)) cu (get u (+ idxH2 x)))\n                                                                                  (* 4 cui)))\n                                                                         d2)\n                                                                      (* f (- 1.0 cui))))))))\n                                    (-&gt; tv\n                                        (assoc! x (max 0 (+ cv\n                                                            (* t (- (+ (* dv (- (+ (get v right) (get v left) (get v (+ w x)) cvi)\n                                                                                (* 4 cv)))\n                                                                       d1)\n                                                                    (* k cv))))))\n                                        (assoc! idx (max 0 (+ cvi\n                                                              (* t (- (+ (* dv (- (+ (get v (+ idxH1 right)) (get v (+ idxH1 left)) cv (get v (+ idxH2 x)))\n                                                                                  (* 4 cvi)))\n                                                                         d2)\n                                                                      (* k cvi)))))))]))\n                               temp\n                               (range 0 w))]\n                    (reduce\n                      (fn [[tu tv] y]\n                        (println \&quot;there\&quot;)\n                        (let [idx (* y w)\n                              idxW1 (+ idx w1)\n                              idxW2 (+ idx w2)\n                              cu (get u idx)\n                              cv (get v idx)\n                              cui (get u idxW1)\n                              cvi (get v idxW1)\n                              d1 (* cu cv cv)\n                              d2 (* cui cvi cvi)\n                              up (* w (if (zero? y) h1 (dec y)))\n                              down (* w (if (= h1 y) 0 (inc y)))]\n\n                          [(-&gt; tu\n                               (assoc! idx (max 0 (+ cu\n                                                     (* t (+ (- (* du (- (+ (get u (inc idx)) cui (get u down) (get u up))\n                                                                         (* 4 cu)))\n                                                                d1)\n                                                             (* f (- 1.0 cu)))))))\n\n                               (assoc! idxW1 (max 0 (+ cui\n                                                       (* t (+ (- (* du (- (+ cu (get u idxW2) (get u (+ w1 down)) cu (get u (+ up w1)))\n                                                                           (* 4 cui)))\n                                                                  d2)\n                                                               (* f (- 1.0 cui))))))))\n\n                           (-&gt; tv\n                               (assoc! idx (max 0 (+ cv\n                                                     (* t (- (+ (* dv (- (+ (get v (inc idx)) cvi (get v down) (get v up))\n                                                                         (* 4 cv)))\n                                                                d1)\n                                                             (* k cv))))))\n\n                               (assoc! idxW1 (max 0 (+ cvi\n                                                       (* t (- (+ (* dv (- (+ cv (get v idxW2) (get v (+ down w1)) (get v (+ up w1)))\n                                                                           (* 4 cvi)))\n                                                                  d2)\n                                                               (* k cvi)))))))]))\n                      temp\n                      (range 0 h))))]\n    (assoc gs :u (persistent! tu)\n              :v (persistent! tv))))&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h false))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))]\n\n    (animate\n      (fn [_]\n        (swap! gs step)\n        (svg \&quot;#app\&quot;\n             {:width (* w pixel-size) :height (* h pixel-size)}\n             (map-indexed (fn [i v]\n                            (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size {:fill @(cscale v)}))\n                          (:u @gs)))\n        true)))&quot; &quot;(time (do (upd3 (grayscott 200 200 true) 1) nil))&quot; &quot;(defn upd [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n  (let [t (clip 0 1 t)\n        tu (transient u)\n        tv (transient v)\n        w1 (dec w)\n        h1 (dec h)\n\n        temp (reduce (fn [[tu tv] [x y]]\n                       (let [idx (+ x (* y w))\n                             top (- idx w)\n                             bottom (+ idx w)\n                             left (dec idx)\n                             right (inc idx)\n                             ;f (get-f gs x y)\n                             ;k (get-k gs x y)\n                             cu (get u idx)\n                             cv (get v idx)\n                             d2 (* cu cv cv)]\n\n                         [(assoc! tu idx (max 0 (+ cu\n                                                   (* t\n                                                      (+ (- (* du (- (mm/add (get u right) (get u left) (get u bottom) (get u top))\n                                                                     (* 4 cu)))\n                                                            d2)\n                                                         (* f (- 1.0 cu)))))))\n\n\n                          (assoc! tv idx (max 0 (+ cv\n                                                   (* t\n                                                      (- (+ (* dv (- (mm/add (get v right) (get v left) (get v bottom) (get v top))\n                                                                     (* 4 cv)))\n                                                            d2)\n                                                         (* k cv))))))]))\n                     [(transient u) (transient v)]\n                     (for [x (range 1 w1)\n                           y (range 1 h1)]\n                       [x y]))\n        [tu tv] (if-not is-tilling\n                  temp\n                  (let [w2 (dec w1)\n                        idxH1 (* h1 w)\n                        idxH2 (* (dec h1) w)\n\n                        temp (reduce\n                               (fn [[tu tv] x]\n                                 (let [left (if (zero? x) w1 (dec x))\n                                       right (if (= w1 x) 0 (inc x))\n                                       idx (+ idxH1 x)\n                                       cu (get u x)\n                                       cv (get v x)\n                                       cui (get u idx)\n                                       cvi (get v idx)\n                                       d1 (* cu cv cv)\n                                       d2 (* cui cvi cvi)]\n\n                                   [(-&gt; tu\n                                        (assoc! x (max 0 (+ cu\n                                                            (* t (+ (- (* du (- (mm/add (get u right) (get u left) (get u (+ w x)) cui)\n                                                                                (* 4 cu)))\n                                                                       d1)\n                                                                    (* f (- 1.0 cu)))))))\n                                        (assoc! idx (max 0 (+ cui\n                                                              (* t (+ (- (* du (- (mm/add (get u (+ idxH1 right)) (get u (+ idxH1 left)) cu (get u (+ idxH2 x)))\n                                                                                  (* 4 cui)))\n                                                                         d2)\n                                                                      (* f (- 1.0 cui))))))))\n                                    (-&gt; tv\n                                        (assoc! x (max 0 (+ cv\n                                                            (* t (- (+ (* dv (- (mm/add (get v right) (get v left) (get v (+ w x)) cvi)\n                                                                                (* 4 cv)))\n                                                                       d1)\n                                                                    (* k cv))))))\n                                        (assoc! idx (max 0 (+ cvi\n                                                              (* t (- (+ (* dv (- (mm/add (get v (+ idxH1 right)) (get v (+ idxH1 left)) cv (get v (+ idxH2 x)))\n                                                                                  (* 4 cvi)))\n                                                                         d2)\n                                                                      (* k cvi)))))))]))\n                               temp\n                               (range 0 w))]\n                    (reduce\n                      (fn [[tu tv] y]\n                        (let [idx (* y w)\n                              idxW1 (+ idx w1)\n                              idxW2 (+ idx w2)\n                              cu (get u idx)\n                              cv (get v idx)\n                              cui (get u idxW1)\n                              cvi (get v idxW1)\n                              d1 (* cu cv cv)\n                              d2 (* cui cvi cvi)\n                              up (* w (if (zero? y) h1 (dec y)))\n                              down (* w (if (= h1 y) 0 (inc y)))]\n\n                          [(-&gt; tu\n                               (assoc! idx (max 0 (+ cu\n                                                     (* t (+ (- (* du (- (mm/add (get u (inc idx)) cui (get u down) (get u up))\n                                                                         (* 4 cu)))\n                                                                d1)\n                                                             (* f (- 1.0 cu)))))))\n\n                               (assoc! idxW1 (max 0 (+ cui\n                                                       (* t (+ (- (* du (- (mm/add cu (get u idxW2) (get u (+ w1 down)) cu (get u (+ up w1)))\n                                                                           (* 4 cui)))\n                                                                  d2)\n                                                               (* f (- 1.0 cui))))))))\n\n                           (-&gt; tv\n                               (assoc! idx (max 0 (+ cv\n                                                     (* t (- (+ (* dv (- (mm/add (get v (inc idx)) cvi (get v down) (get v up))\n                                                                         (* 4 cv)))\n                                                                d1)\n                                                             (* k cv))))))\n\n                               (assoc! idxW1 (max 0 (+ cvi\n                                                       (* t (- (+ (* dv (- (mm/add cv (get v idxW2) (get v (+ down w1)) (get v (+ up w1)))\n                                                                           (* 4 cvi)))\n                                                                  d2)\n                                                               (* k cvi)))))))]))\n                      temp\n                      (range 0 h))))]\n    (assoc gs :u (persistent! tu)\n              :v (persistent! tv))))&quot; &quot;(merge {:a 1} {:a 2})&quot; &quot;(time (do (upd (grayscott 200 200 true) 1) nil))&quot; &quot;(grayscott 200 200)&quot; &quot;(upd (grayscott 200 200) 1)&quot; &quot;(grayscott 20 20)&quot; &quot;(grayscott 2 2)&quot; &quot;(let [w 40\n        h 40\n        pixel-size 5\n        gs (atom (grayscott w h))\n\n        cscale #(c/blend (css \&quot;white\&quot;) (css \&quot;black\&quot;) %)\n\n        coords #(vector (int (/ % w)) (rem % w))\n\n        step (apply comp (repeat 10 #(upd % 1)))]\n\n    (animate\n      (fn [_]\n        (swap! gs step)\n        (svg \&quot;#app\&quot;\n             {:width (* w pixel-size) :height (* h pixel-size)}\n             (map-indexed (fn [i v]\n                            (svg/rect (map (partial *  pixel-size) (coords i))  pixel-size  pixel-size {:fill @(cscale v)}))\n                          (:u @gs)))\n        true)))&quot; &quot;(ns geom.noise)&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (apply max (take 1000 (map noise (range seed1 (+ 100 seed1) 0.1) (range seed2 (+ 100 seed2) 2.01)))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (apply min (take 1000 (map noise (range seed1 (+ 100 seed1) 0.1) (range seed2 (+ 100 seed2) 2.01)))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (count (filter (partial &gt;= 1) (take 1000 (map noise (range seed1 (+ 100 seed1) 0.1) (range seed2 (+ 100 seed2) 2.01))))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (count (filter (partial &lt;= 1) (take 1000 (map noise (range seed1 (+ 100 seed1) 0.1) (range seed2 (+ 100 seed2) 2.01))))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (count (take 1000 (map noise (range seed1 (+ 100 seed1) 0.1) (range seed2 (+ 100 seed2) 2.01)))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (count (take 1000 (map noise (range seed1 (+ 1000 seed1) 0.1) (range seed2 (+ 1000 seed2) 2.01)))))&quot; &quot;(let [seed1 (rand 1000000)\n      seed2 (rand 1000000)]\n  (count (filter (partial &gt;= 1) (take 1000 (map noise (range seed1 (+ 1000 seed1) 0.1) (range seed2 (+ 1000 seed2) 2.01))))))&quot; &quot;(aget (a/float32 [1 1 1]) 2)&quot; &quot;(defn upd2 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n     (let [t (clip 0 1 t)\n           w1 (dec w)\n           h1 (dec h)\n\n           [tu tv] (reduce (fn [[tu tv] [x y]]\n                             (let [idx (+ x (* y w))\n                                   top (- idx w)\n                                   bottom (+ idx w)\n                                   left (dec idx)\n                                   right (inc idx)\n                                   f (get-f gs x y)\n                                   k (get-k gs x y)\n                                   cu (get u idx)\n                                   cv (get v idx)\n                                   d2 (* cu cv cv)]\n\n                               [(aset tu idx (max 0 (+ cu\n                                                         (* t\n                                                            (+ (- (* du (- (mm/add (get u right) (get u left) (get u bottom) (get u top))\n                                                                           (* 4 cu)))\n                                                                  d2)\n                                                               (* f (- 1.0 cu)))))))\n\n\n                                (aset tv idx (max 0 (+ cv\n                                                         (* t\n                                                            (- (+ (* dv (- (mm/add (get v right) (get v left) (get v bottom) (get v top))\n                                                                           (* 4 cv)))\n                                                                  d2)\n                                                               (* k cv))))))]))\n                           [(a/float32 u) (a/float32 v)]\n                           (for [x (range 1 w1)\n                                 y (range 1 h1)]\n                             [x y]))]\n       (assoc gs :u (persistent! tu)\n                 :v (persistent! tv))))&quot; &quot;(defn upd2 [{:keys [w h u v du dv f k is-tilling] :as gs} t]\n     (let [t (clip 0 1 t)\n           w1 (dec w)\n           h1 (dec h)\n\n           [tu tv] (reduce (fn [[tu tv] [x y]]\n                             (let [idx (+ x (* y w))\n                                   top (- idx w)\n                                   bottom (+ idx w)\n                                   left (dec idx)\n                                   right (inc idx)\n                                   f (get-f gs x y)\n                                   k (get-k gs x y)\n                                   cu (get u idx)\n                                   cv (get v idx)\n                                   d2 (* cu cv cv)]\n\n                               [(aset tu idx (max 0 (+ cu\n                                                         (* t\n                                                            (+ (- (* du (- (mm/add (get u right) (get u left) (get u bottom) (get u top))\n                                                                           (* 4 cu)))\n                                                                  d2)\n                                                               (* f (- 1.0 cu)))))))\n\n\n                                (aset tv idx (max 0 (+ cv\n                                                         (* t\n                                                            (- (+ (* dv (- (mm/add (get v right) (get v left) (get v bottom) (get v top))\n                                                                           (* 4 cv)))\n                                                                  d2)\n                                                               (* k cv))))))]))\n                           [(a/float32 u) (a/float32 v)]\n                           (for [x (range 1 w1)\n                                 y (range 1 h1)]\n                             [x y]))]\n       (assoc gs :u tu\n                 :v tv)))&quot; &quot;(time (do (upd (grayscott 200 200) 1) nil))&quot; &quot;(time (do (upd2 (grayscott 200 200) 1) nil))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        f (flower {:origin [250 250]\n                   :lrs    (shapes/flower-lrs [3 10] [5 20] [7 40])})]\n    (svg \&quot;#app\&quot;\n         {:width 500 :height 500 :fill \&quot;rgba(0,0,0,0.1)\&quot;}\n         (map (fn [{:keys [idx points]}] (svg/polygon points {:fill @(nth pinks idx)})) (reverse (:lrs f)))))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        f (flower {:origin [250 250]\n                   :lrs    (shapes/flower-lrs [3 30] [9 60] [15 150] [25 230])})\n        pols (shapes/flower-&gt;voronoi [500 500] f)]\n    (svg \&quot;#app\&quot;\n         {:width 500 :height 500}\n         (map (fn [x] (svg/polygon (:polygon x)\n                                   {:stroke-width 2\n                                    :stroke \&quot;white\&quot;\n                                    :fill @(nth pinks (-&gt; x :seed :lr :idx))}))\n              pols)))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        f (flower {:origin [250 250]\n                   :lrs    (shapes/flower-lrs [3 10 {:speed 0.1}] [5 20 {:speed -0.1}] [7 40 {:speed 0.05}])\n                   :rotating? true})]\n    (animate (fn [_]\n               (svg \&quot;#app\&quot;\n                    {:width 500 :height 500 :fill \&quot;rgba(0,0,0,0.1)\&quot;}\n                    (map (fn [{:keys [idx points]}]\n                           (svg/polygon @points {:fill @(nth pinks idx)}))\n                         (reverse (:lrs f))))\n               true)))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        f (flower {:origin [250 250]\n                   :lrs    (shapes/flower-lrs [3 10] [5 50] [7 120] [13 200] [9 220])\n                   :rotating? true})]\n    (animate (fn [[a b]]\n               (let [pols (shapes/flower-&gt;voronoi [500 500] f)]\n                 (svg \&quot;#app\&quot;\n                      {:width 500 :height 500 }\n                      (map (fn [x] (svg/polygon (:polygon x) {:stroke-width 2\n                                                              :stroke \&quot;white\&quot;\n                                                              :fill @(nth pinks (-&gt; x :seed :lr :idx))})) pols)))\n               true)))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        blues (c/grad-palette (c/css \&quot;light-skyblue\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        greens (c/grad-palette (c/css \&quot;olive\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        oranges (c/grad-palette (c/css \&quot;orange\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        f1 (flower {:id :one\n                    :origin [100 100]\n                   :lrs    (shapes/flower-lrs [3 30] [9 60] [15 150] )})\n        f2 (flower {:id :two\n                    :origin [400 400]\n                    :lrs    (shapes/flower-lrs [5 30] [7 80] [12 120] )})\n        f3 (flower {:id :three\n                    :origin [300 150]\n                    :lrs    (shapes/flower-lrs [5 30] [7 80] [12 120] )})\n        f4 (flower {:id :four\n                    :origin [150 250]\n                    :lrs    (shapes/flower-lrs [5 30] [7 80] [12 120] )})\n        pols (shapes/flowers-&gt;voronoi [500 500] f1 f2 f3 f4)]\n    (svg \&quot;#app\&quot;\n         {:width 500 :height 500}\n         (map (fn [x] (svg/polygon (:polygon x)\n                                   {:stroke-width 2\n                                    :stroke       \&quot;white\&quot;\n                                    :fill         @(nth (condp = (-&gt; x :seed :lr :flower)\n                                                          :one pinks\n                                                          :two blues\n                                                          :three greens\n                                                          :four oranges)\n                                                        (-&gt; x :seed :lr :idx))}))\n              pols)))&quot; &quot;(let [pinks (c/grad-palette (c/css \&quot;light-coral\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        blues (c/grad-palette (c/css \&quot;light-skyblue\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        greens (c/grad-palette (c/css \&quot;olive\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n        oranges (c/grad-palette (c/css \&quot;orange\&quot;) (c/css \&quot;#FAFAFA\&quot;) 5)\n\n        find-color (fn [x]\n                     @(nth (condp = (-&gt; x :seed :lr :flower)\n                             0 pinks\n                             1 blues\n                             2 greens\n                             3 oranges)\n                           (-&gt; x :seed :lr :idx)))\n\n        rf (fn [id origin]\n             (flower {:id id\n                      :origin origin\n                      :lrs    (shapes/flower-lrs\n                                [(randge 2 7)(randge 20 50)]\n                                [(randge 5 10)(randge 30 90)]\n                                [(randge 7 15)(randge 70 130)]\n                                [(randge 10 25)(randge 110 160)])\n                      :rotating? true}))\n\n        f (fn [id origin]\n             (flower {:id id\n                      :origin origin\n                      :lrs    (shapes/flower-lrs [3 10] [5 30] [7 80] [12 120])\n                      :rotating? true}))\n\n        fs (map f (range) [[100 100][300 300][300 100][100 300]])]\n    (animate (fn [[a b]]\n               (let [pols (apply shapes/flowers-&gt;voronoi [500 500] fs)]\n                 (svg \&quot;#app\&quot;\n                      {:width 400 :height 400 }\n                      (map #(svg/polygon (:polygon %) {:fill (find-color %)})\n                           pols)))\n               true)))&quot; &quot;(moving-triangulation\n    {:width  1000\n     :height 500\n     :n      100})&quot; &quot;(rand-voro {:width 1000 :height 500 :n 100})&quot; &quot;(moving-voro {:width 1000 :height 500 :n 100})&quot; &quot;(moving-voro2 {:width 1000 :height 500 :n 100})&quot; &quot;(moving-voro3 {:width 1000 :height 300 :n 130})&quot; &quot;(moving-voro4 {:width 800 :height 200 :n 150})&quot; &quot;(moving-voro5 {:width 600 :height 600 :n 300})&quot; &quot;(moving-voro5 {:width 600 :height 600 :n 100})&quot; &quot;(moving-voro6 {:width 600 :height 200 :n-calm 200 :n-nervous 3})&quot; &quot;(require '[thi.ng.geom.rect :as r])&quot; &quot;(-&gt;&gt; (init-svg! \&quot;#app\&quot; [1000 1000])\n       (dom/clear!)\n       (dom/create-dom!\n         (svg/group {:stroke \&quot;black\&quot; :fill \&quot;white\&quot;}\n                    (map (comp svg/polygon) (g/tessellate (polygon/polygon2 [[0 50] [50 0] [100 50] [75 100] [25 100]])))\n                    (map (comp svg/polygon) (map (comp g/tessellate polygon/polygon2)\n                                                 (g/tessellate (polygon/polygon2 [[100 200] [300 200] [400 500] [0 500]])))))))&quot; &quot;(let [cv (clipped-voronoi (reverse [[0 50] [50 0] [100 50] [75 100] [25 100]]))\n        xs (cv (map vec2 [[25 30] [75 30] [50 75]]))]\n    (-&gt;&gt; (init-svg! \&quot;#app\&quot; [1000 1000])\n         (dom/clear!)\n         #_(dom/create-dom!\n             [:defs [:clipPath {:id \&quot;myClip\&quot;}\n                     [:circle {:cx 50 :cy 50 :r 30}]]])\n\n         (dom/create-dom!\n           (list\n\n             [:defs [:clipPath {:id \&quot;myClip\&quot;} [:circle {:cx 50 :cy 50 :r 10}]]]\n             #_(svg/defs (svg/instance \&quot;clipPath\&quot; {:id \&quot;myClip\&quot;} (svg/circle [50 50] 10)))\n             (svg/group {:stroke \&quot;black\&quot; :fill \&quot;white\&quot; :style \&quot;-webkit-clip-path: polygon(25px 25px, 75px 25px, 75px 75px , 25px 75px)\&quot;}\n                        (map (comp svg/polygon :polygon) xs))))))&quot;], :remote []}}</component>
   <component name="RunManager" selected="Clojure REPL.fig">
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
@@ -377,37 +564,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list size="1">
+    <configuration default="false" name="clj" type="ClojureREPL" factoryName="Local">
+      <setting name="replType" value="1" />
+      <module name="geom" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Clojure REPL.fig" />
+      <item index="1" class="java.lang.String" itemvalue="Clojure REPL.clj" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1175" y="23" width="1279" height="1413" extended-state="0" />
-    <editor active="true" />
+    <frame x="1195" y="23" width="1279" height="1413" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2767988" sideWeight="0.19702893" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14933541" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2767988" sideWeight="0.80297107" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.502834" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960477" sideWeight="0.49716598" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23713647" sideWeight="0.19271255" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1562753" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -426,251 +625,350 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/color/version.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/color/core.cljc.cache.edn">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/color/presets.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-svg/0.0.908/geom-svg-0.0.908.jar!/thi/ng/geom/svg/core.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/NOC/vectors.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.017763846">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/color/core.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="748" column="7" selection-start-line="748" selection-start-column="7" selection-end-line="748" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/elements/particle.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="20" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/basicmesh.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/gmesh.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/plane.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/triangle.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05483871">
+        <state relative-caret-position="0">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/polygon.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38387096">
+        <state relative-caret-position="0">
           <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/core.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0946236">
+        <state relative-caret-position="0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/rect.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="111" column="15" selection-start-line="111" selection-start-column="15" selection-end-line="111" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-types/0.0.908/geom-types-0.0.908.jar!/thi/ng/geom/polygon.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51182795">
+        <state relative-caret-position="0">
           <caret line="309" column="14" selection-start-line="309" selection-start-column="14" selection-end-line="309" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-core/0.0.908/geom-core-0.0.908.jar!/thi/ng/geom/core/vector.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
+        <state relative-caret-position="0">
           <caret line="535" column="7" selection-start-line="535" selection-start-column="3" selection-end-line="535" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/domus/0.1.0/domus-0.1.0.jar!/thi/ng/domus/utils.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1954023">
+        <state relative-caret-position="0">
           <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/domus/core.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-27.222221">
+        <state relative-caret-position="0">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojure/1.8.0/clojure-1.8.0.jar!/clojure/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="3723" column="10" selection-start-line="3723" selection-start-column="10" selection-end-line="3723" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-svg/0.0.908/geom-svg-0.0.908.jar!/thi/ng/geom/svg/renderer.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/core/vector.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1455" column="32" selection-start-line="1455" selection-start-column="32" selection-end-line="1455" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/math/simplexnoise.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74608153">
+        <state relative-caret-position="0">
           <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/geom-svg/0.0.908/geom-svg-0.0.908.jar!/thi/ng/geom/svg/adapter.cljc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4516129">
+        <state relative-caret-position="0">
           <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/domus/0.1.0/domus-0.1.0.jar!/thi/ng/domus/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/math/0.1.4/math-0.1.4.jar!/thi/ng/math/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="268" column="9" selection-start-line="268" selection-start-column="6" selection-end-line="268" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/mesh/delaunay.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/svg/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="160" column="10" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/js/cljs/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2501" column="6" selection-start-line="2501" selection-start-column="6" selection-end-line="2501" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.7.228/clojurescript-1.7.228.jar!/cljs/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2446" column="15" selection-start-line="2446" selection-start-column="15" selection-end-line="2446" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/core_old.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="202" column="7" selection-start-line="202" selection-start-column="7" selection-end-line="202" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/test.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/misc/strands.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/misc/paths.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/misc/clip_path_bug.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/elements/core.cljs">
+    <entry file="file://$PROJECT_DIR$/script/figwheel.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/all.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/elements/examples/grav_particles.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/domus/0.1.0/domus-0.1.0.jar!/thi/ng/domus/core.cljs">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="84" />
+        <state relative-caret-position="204">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/core.cljc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1114">
+          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding>
+            <element signature="e#7987#10077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/elements/examples/grav_particles.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/elements/core.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/elements/particle.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/NOC/all.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/NOC/intro.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-744">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/NOC/utils.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/NOC/vectors.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/sketches/flowers.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="134" column="22" selection-start-line="134" selection-start-column="22" selection-end-line="134" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/sketches/delaunay1.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="221" column="29" selection-start-line="221" selection-start-column="29" selection-end-line="221" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/geom/utils/colors.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geom/utils/from_d3.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="-374">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding>
-            <element signature="e#1373#1519#0" expanded="false" />
-            <element signature="e#1716#1774#0" expanded="false" />
-            <element signature="e#2022#2312#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/thi/ng/math/0.1.4/math-0.1.4.jar!/thi/ng/math/core.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.481482">
-          <caret line="268" column="9" selection-start-line="268" selection-start-column="6" selection-end-line="268" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geom/utils/prob.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5506792">
+        <state relative-caret-position="527">
           <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding />
         </state>
@@ -678,152 +976,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geom/utils/shapes.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4493208">
+        <state relative-caret-position="1020">
           <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/mesh/delaunay.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07105538">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/js/thi/ng/geom/svg/core.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.481482">
-          <caret line="160" column="10" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/public/js/cljs/core.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="2501" column="6" selection-start-line="2501" selection-start-column="6" selection-end-line="2501" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.7.228/clojurescript-1.7.228.jar!/cljs/core.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="2446" column="15" selection-start-line="2446" selection-start-column="15" selection-end-line="2446" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/core.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="165" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/core_old.cljc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="202" column="7" selection-start-line="202" selection-start-column="7" selection-end-line="202" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/grayscott/test.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geom/utils/svg.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="340">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/sketches/delaunay1.cljs">
+    <entry file="file://$PROJECT_DIR$/src/geom/all.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="34" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/utils/colors.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="33" selection-start-line="61" selection-start-column="33" selection-end-line="61" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/sketches/voronoi1.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/NOC/utils.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/NOC/intro.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="10" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/sketches/flowers.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geom/noise.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="29" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/misc/clip_path_bug.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/misc/paths.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/geom/misc/strands.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0961337">
-          <caret line="118" column="19" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="7" column="73" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
           <folding />
         </state>
       </provider>

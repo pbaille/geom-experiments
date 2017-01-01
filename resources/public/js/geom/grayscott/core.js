@@ -1,6 +1,7 @@
 // Compiled by ClojureScript 1.7.228 {}
 goog.provide('geom.grayscott.core');
 goog.require('cljs.core');
+goog.require('thi.ng.typedarrays.core');
 geom.grayscott.core.clip = (function geom$grayscott$core$clip(min,max,n){
 if((n < min)){
 return min;
@@ -13,24 +14,24 @@ return n;
 }
 }
 });
-geom.grayscott.core.get_u = (function geom$grayscott$core$get_u(p__20097,x,y){
-var map__20100 = p__20097;
-var map__20100__$1 = ((((!((map__20100 == null)))?((((map__20100.cljs$lang$protocol_mask$partition0$ & (64))) || (map__20100.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__20100):map__20100);
-var w = cljs.core.get.call(null,map__20100__$1,new cljs.core.Keyword(null,"w","w",354169001));
-var h = cljs.core.get.call(null,map__20100__$1,new cljs.core.Keyword(null,"h","h",1109658740));
-var u = cljs.core.get.call(null,map__20100__$1,new cljs.core.Keyword(null,"u","u",-1156634785));
+geom.grayscott.core.get_u = (function geom$grayscott$core$get_u(p__21553,x,y){
+var map__21556 = p__21553;
+var map__21556__$1 = ((((!((map__21556 == null)))?((((map__21556.cljs$lang$protocol_mask$partition0$ & (64))) || (map__21556.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21556):map__21556);
+var w = cljs.core.get.call(null,map__21556__$1,new cljs.core.Keyword(null,"w","w",354169001));
+var h = cljs.core.get.call(null,map__21556__$1,new cljs.core.Keyword(null,"h","h",1109658740));
+var u = cljs.core.get.call(null,map__21556__$1,new cljs.core.Keyword(null,"u","u",-1156634785));
 if(((((0) <= y)) && ((y <= h))) && ((((0) <= x)) && ((x <= w)))){
 return cljs.core.get.call(null,u,(x + (y * w)));
 } else {
 return (0);
 }
 });
-geom.grayscott.core.get_v = (function geom$grayscott$core$get_v(p__20102,x,y){
-var map__20105 = p__20102;
-var map__20105__$1 = ((((!((map__20105 == null)))?((((map__20105.cljs$lang$protocol_mask$partition0$ & (64))) || (map__20105.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__20105):map__20105);
-var w = cljs.core.get.call(null,map__20105__$1,new cljs.core.Keyword(null,"w","w",354169001));
-var h = cljs.core.get.call(null,map__20105__$1,new cljs.core.Keyword(null,"h","h",1109658740));
-var v = cljs.core.get.call(null,map__20105__$1,new cljs.core.Keyword(null,"v","v",21465059));
+geom.grayscott.core.get_v = (function geom$grayscott$core$get_v(p__21558,x,y){
+var map__21561 = p__21558;
+var map__21561__$1 = ((((!((map__21561 == null)))?((((map__21561.cljs$lang$protocol_mask$partition0$ & (64))) || (map__21561.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21561):map__21561);
+var w = cljs.core.get.call(null,map__21561__$1,new cljs.core.Keyword(null,"w","w",354169001));
+var h = cljs.core.get.call(null,map__21561__$1,new cljs.core.Keyword(null,"h","h",1109658740));
+var v = cljs.core.get.call(null,map__21561__$1,new cljs.core.Keyword(null,"v","v",21465059));
 if(((((0) <= y)) && ((y <= h))) && ((((0) <= x)) && ((x <= w)))){
 return cljs.core.get.call(null,v,(x + (y * w)));
 } else {
@@ -53,14 +54,14 @@ return new cljs.core.Keyword(null,"k","k",-2146297393).cljs$core$IFn$_invoke$ari
 })], null);
 geom.grayscott.core.grayscott = (function geom$grayscott$core$grayscott(var_args){
 var args__19340__auto__ = [];
-var len__19333__auto___20112 = arguments.length;
-var i__19334__auto___20113 = (0);
+var len__19333__auto___21568 = arguments.length;
+var i__19334__auto___21569 = (0);
 while(true){
-if((i__19334__auto___20113 < len__19333__auto___20112)){
-args__19340__auto__.push((arguments[i__19334__auto___20113]));
+if((i__19334__auto___21569 < len__19333__auto___21568)){
+args__19340__auto__.push((arguments[i__19334__auto___21569]));
 
-var G__20114 = (i__19334__auto___20113 + (1));
-i__19334__auto___20113 = G__20114;
+var G__21570 = (i__19334__auto___21569 + (1));
+i__19334__auto___21569 = G__21570;
 continue;
 } else {
 }
@@ -71,9 +72,9 @@ var argseq__19341__auto__ = ((((2) < args__19340__auto__.length))?(new cljs.core
 return geom.grayscott.core.grayscott.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),(arguments[(1)]),argseq__19341__auto__);
 });
 
-geom.grayscott.core.grayscott.cljs$core$IFn$_invoke$arity$variadic = (function (w,h,p__20110){
-var vec__20111 = p__20110;
-var opts = cljs.core.nth.call(null,vec__20111,(0),null);
+geom.grayscott.core.grayscott.cljs$core$IFn$_invoke$arity$variadic = (function (w,h,p__21566){
+var vec__21567 = p__21566;
+var opts = cljs.core.nth.call(null,vec__21567,(0),null);
 var cnt = (w * h);
 var v = cljs.core.vec.call(null,cljs.core.repeat.call(null,cnt,1.0));
 var u = cljs.core.vec.call(null,cljs.core.repeat.call(null,cnt,0.0));
@@ -82,37 +83,37 @@ return cljs.core.merge.call(null,geom.grayscott.core.grayscott_defaults,opts,new
 
 geom.grayscott.core.grayscott.cljs$lang$maxFixedArity = (2);
 
-geom.grayscott.core.grayscott.cljs$lang$applyTo = (function (seq20107){
-var G__20108 = cljs.core.first.call(null,seq20107);
-var seq20107__$1 = cljs.core.next.call(null,seq20107);
-var G__20109 = cljs.core.first.call(null,seq20107__$1);
-var seq20107__$2 = cljs.core.next.call(null,seq20107__$1);
-return geom.grayscott.core.grayscott.cljs$core$IFn$_invoke$arity$variadic(G__20108,G__20109,seq20107__$2);
+geom.grayscott.core.grayscott.cljs$lang$applyTo = (function (seq21563){
+var G__21564 = cljs.core.first.call(null,seq21563);
+var seq21563__$1 = cljs.core.next.call(null,seq21563);
+var G__21565 = cljs.core.first.call(null,seq21563__$1);
+var seq21563__$2 = cljs.core.next.call(null,seq21563__$1);
+return geom.grayscott.core.grayscott.cljs$core$IFn$_invoke$arity$variadic(G__21564,G__21565,seq21563__$2);
 });
-geom.grayscott.core.upd = (function geom$grayscott$core$upd(p__20115,t){
-var map__20133 = p__20115;
-var map__20133__$1 = ((((!((map__20133 == null)))?((((map__20133.cljs$lang$protocol_mask$partition0$ & (64))) || (map__20133.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__20133):map__20133);
-var gs = map__20133__$1;
-var w = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"w","w",354169001));
-var h = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"h","h",1109658740));
-var u = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"u","u",-1156634785));
-var v = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"v","v",21465059));
-var du = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"du","du",1000321745));
-var dv = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"dv","dv",781315158));
-var f = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"f","f",-1597136552));
-var k = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"k","k",-2146297393));
-var is_tilling = cljs.core.get.call(null,map__20133__$1,new cljs.core.Keyword(null,"is-tilling","is-tilling",736489277));
+geom.grayscott.core.upd = (function geom$grayscott$core$upd(p__21571,t){
+var map__21589 = p__21571;
+var map__21589__$1 = ((((!((map__21589 == null)))?((((map__21589.cljs$lang$protocol_mask$partition0$ & (64))) || (map__21589.cljs$core$ISeq$))?true:false):false))?cljs.core.apply.call(null,cljs.core.hash_map,map__21589):map__21589);
+var gs = map__21589__$1;
+var w = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"w","w",354169001));
+var h = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"h","h",1109658740));
+var u = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"u","u",-1156634785));
+var v = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"v","v",21465059));
+var du = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"du","du",1000321745));
+var dv = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"dv","dv",781315158));
+var f = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"f","f",-1597136552));
+var k = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"k","k",-2146297393));
+var is_tilling = cljs.core.get.call(null,map__21589__$1,new cljs.core.Keyword(null,"is-tilling","is-tilling",736489277));
 var t__$1 = geom.grayscott.core.clip.call(null,(0),(1),t);
 var w1 = (w - (1));
 var h1 = (h - (1));
-var temp = cljs.core.reduce.call(null,((function (t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
-return (function (p__20136,p__20137){
-var vec__20138 = p__20136;
-var tu = cljs.core.nth.call(null,vec__20138,(0),null);
-var tv = cljs.core.nth.call(null,vec__20138,(1),null);
-var vec__20139 = p__20137;
-var x = cljs.core.nth.call(null,vec__20139,(0),null);
-var y = cljs.core.nth.call(null,vec__20139,(1),null);
+var temp = cljs.core.reduce.call(null,((function (t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+return (function (p__21592,p__21593){
+var vec__21594 = p__21592;
+var tu = cljs.core.nth.call(null,vec__21594,(0),null);
+var tv = cljs.core.nth.call(null,vec__21594,(1),null);
+var vec__21595 = p__21593;
+var x = cljs.core.nth.call(null,vec__21595,(0),null);
+var y = cljs.core.nth.call(null,vec__21595,(1),null);
 var idx = (x + (y * w));
 var top = (idx - w);
 var bottom = (idx + w);
@@ -130,38 +131,38 @@ return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__aut
 var y__18607__auto__ = (cv + (t__$1 * (((dv * ((((cljs.core.get.call(null,v,right) + cljs.core.get.call(null,v,left)) + cljs.core.get.call(null,v,bottom)) + cljs.core.get.call(null,v,top)) - ((4) * cv))) + d2) - (k__$1 * cv))));
 return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__auto__);
 })())], null);
-});})(t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
-,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.transient$.call(null,u),cljs.core.transient$.call(null,v)], null),(function (){var iter__19047__auto__ = ((function (t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
-return (function geom$grayscott$core$upd_$_iter__20140(s__20141){
-return (new cljs.core.LazySeq(null,((function (t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+});})(t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.transient$.call(null,u),cljs.core.transient$.call(null,v)], null),(function (){var iter__19047__auto__ = ((function (t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+return (function geom$grayscott$core$upd_$_iter__21596(s__21597){
+return (new cljs.core.LazySeq(null,((function (t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
 return (function (){
-var s__20141__$1 = s__20141;
+var s__21597__$1 = s__21597;
 while(true){
-var temp__4657__auto__ = cljs.core.seq.call(null,s__20141__$1);
+var temp__4657__auto__ = cljs.core.seq.call(null,s__21597__$1);
 if(temp__4657__auto__){
 var xs__5205__auto__ = temp__4657__auto__;
 var x = cljs.core.first.call(null,xs__5205__auto__);
-var iterys__19043__auto__ = ((function (s__20141__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
-return (function geom$grayscott$core$upd_$_iter__20140_$_iter__20142(s__20143){
-return (new cljs.core.LazySeq(null,((function (s__20141__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+var iterys__19043__auto__ = ((function (s__21597__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+return (function geom$grayscott$core$upd_$_iter__21596_$_iter__21598(s__21599){
+return (new cljs.core.LazySeq(null,((function (s__21597__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
 return (function (){
-var s__20143__$1 = s__20143;
+var s__21599__$1 = s__21599;
 while(true){
-var temp__4657__auto____$1 = cljs.core.seq.call(null,s__20143__$1);
+var temp__4657__auto____$1 = cljs.core.seq.call(null,s__21599__$1);
 if(temp__4657__auto____$1){
-var s__20143__$2 = temp__4657__auto____$1;
-if(cljs.core.chunked_seq_QMARK_.call(null,s__20143__$2)){
-var c__19045__auto__ = cljs.core.chunk_first.call(null,s__20143__$2);
+var s__21599__$2 = temp__4657__auto____$1;
+if(cljs.core.chunked_seq_QMARK_.call(null,s__21599__$2)){
+var c__19045__auto__ = cljs.core.chunk_first.call(null,s__21599__$2);
 var size__19046__auto__ = cljs.core.count.call(null,c__19045__auto__);
-var b__20145 = cljs.core.chunk_buffer.call(null,size__19046__auto__);
-if((function (){var i__20144 = (0);
+var b__21601 = cljs.core.chunk_buffer.call(null,size__19046__auto__);
+if((function (){var i__21600 = (0);
 while(true){
-if((i__20144 < size__19046__auto__)){
-var y = cljs.core._nth.call(null,c__19045__auto__,i__20144);
-cljs.core.chunk_append.call(null,b__20145,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [x,y], null));
+if((i__21600 < size__19046__auto__)){
+var y = cljs.core._nth.call(null,c__19045__auto__,i__21600);
+cljs.core.chunk_append.call(null,b__21601,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [x,y], null));
 
-var G__20150 = (i__20144 + (1));
-i__20144 = G__20150;
+var G__21606 = (i__21600 + (1));
+i__21600 = G__21606;
 continue;
 } else {
 return true;
@@ -169,29 +170,29 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons.call(null,cljs.core.chunk.call(null,b__20145),geom$grayscott$core$upd_$_iter__20140_$_iter__20142.call(null,cljs.core.chunk_rest.call(null,s__20143__$2)));
+return cljs.core.chunk_cons.call(null,cljs.core.chunk.call(null,b__21601),geom$grayscott$core$upd_$_iter__21596_$_iter__21598.call(null,cljs.core.chunk_rest.call(null,s__21599__$2)));
 } else {
-return cljs.core.chunk_cons.call(null,cljs.core.chunk.call(null,b__20145),null);
+return cljs.core.chunk_cons.call(null,cljs.core.chunk.call(null,b__21601),null);
 }
 } else {
-var y = cljs.core.first.call(null,s__20143__$2);
-return cljs.core.cons.call(null,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [x,y], null),geom$grayscott$core$upd_$_iter__20140_$_iter__20142.call(null,cljs.core.rest.call(null,s__20143__$2)));
+var y = cljs.core.first.call(null,s__21599__$2);
+return cljs.core.cons.call(null,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [x,y], null),geom$grayscott$core$upd_$_iter__21596_$_iter__21598.call(null,cljs.core.rest.call(null,s__21599__$2)));
 }
 } else {
 return null;
 }
 break;
 }
-});})(s__20141__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(s__21597__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ,null,null));
-});})(s__20141__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(s__21597__$1,x,xs__5205__auto__,temp__4657__auto__,t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ;
 var fs__19044__auto__ = cljs.core.seq.call(null,iterys__19043__auto__.call(null,cljs.core.range.call(null,(1),h1)));
 if(fs__19044__auto__){
-return cljs.core.concat.call(null,fs__19044__auto__,geom$grayscott$core$upd_$_iter__20140.call(null,cljs.core.rest.call(null,s__20141__$1)));
+return cljs.core.concat.call(null,fs__19044__auto__,geom$grayscott$core$upd_$_iter__21596.call(null,cljs.core.rest.call(null,s__21597__$1)));
 } else {
-var G__20151 = cljs.core.rest.call(null,s__20141__$1);
-s__20141__$1 = G__20151;
+var G__21607 = cljs.core.rest.call(null,s__21597__$1);
+s__21597__$1 = G__21607;
 continue;
 }
 } else {
@@ -199,20 +200,20 @@ return null;
 }
 break;
 }
-});})(t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ,null,null));
-});})(t__$1,w1,h1,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(t__$1,w1,h1,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ;
 return iter__19047__auto__.call(null,cljs.core.range.call(null,(1),w1));
 })());
-var vec__20135 = ((cljs.core.not.call(null,is_tilling))?temp:(function (){var w2 = (w1 - (1));
+var vec__21591 = ((cljs.core.not.call(null,is_tilling))?temp:(function (){var w2 = (w1 - (1));
 var idxH1 = (h1 * w);
 var idxH2 = ((h1 - (1)) * w);
-var temp__$1 = cljs.core.reduce.call(null,((function (w2,idxH1,idxH2,t__$1,w1,h1,temp,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
-return (function (p__20146,x){
-var vec__20147 = p__20146;
-var tu = cljs.core.nth.call(null,vec__20147,(0),null);
-var tv = cljs.core.nth.call(null,vec__20147,(1),null);
+var temp__$1 = cljs.core.reduce.call(null,((function (w2,idxH1,idxH2,t__$1,w1,h1,temp,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+return (function (p__21602,x){
+var vec__21603 = p__21602;
+var tu = cljs.core.nth.call(null,vec__21603,(0),null);
+var tv = cljs.core.nth.call(null,vec__21603,(1),null);
 var left = (((x === (0)))?w1:(x - (1)));
 var right = ((cljs.core._EQ_.call(null,w1,x))?(0):(x + (1)));
 var idx = (idxH1 + x);
@@ -235,13 +236,13 @@ return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__aut
 var y__18607__auto__ = (cvi + (t__$1 * (((dv * ((((cljs.core.get.call(null,v,(idxH1 + right)) + cljs.core.get.call(null,v,(idxH1 + left))) + cv) + cljs.core.get.call(null,v,(idxH2 + x))) - ((4) * cvi))) + d2) - (k * cvi))));
 return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__auto__);
 })())], null);
-});})(w2,idxH1,idxH2,t__$1,w1,h1,temp,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(w2,idxH1,idxH2,t__$1,w1,h1,temp,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ,temp,cljs.core.range.call(null,(0),w));
-return cljs.core.reduce.call(null,((function (w2,idxH1,idxH2,temp__$1,t__$1,w1,h1,temp,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
-return (function (p__20148,y){
-var vec__20149 = p__20148;
-var tu = cljs.core.nth.call(null,vec__20149,(0),null);
-var tv = cljs.core.nth.call(null,vec__20149,(1),null);
+return cljs.core.reduce.call(null,((function (w2,idxH1,idxH2,temp__$1,t__$1,w1,h1,temp,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling){
+return (function (p__21604,y){
+var vec__21605 = p__21604;
+var tu = cljs.core.nth.call(null,vec__21605,(0),null);
+var tv = cljs.core.nth.call(null,vec__21605,(1),null);
 var idx = (y * w);
 var idxW1 = (idx + w1);
 var idxW2 = (idx + w2);
@@ -266,21 +267,21 @@ return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__aut
 var y__18607__auto__ = (cvi + (t__$1 * (((dv * ((((cv + cljs.core.get.call(null,v,idxW2)) + cljs.core.get.call(null,v,(down + w1))) + cljs.core.get.call(null,v,(up + w1))) - ((4) * cvi))) + d2) - (k * cvi))));
 return ((x__18606__auto__ > y__18607__auto__) ? x__18606__auto__ : y__18607__auto__);
 })())], null);
-});})(w2,idxH1,idxH2,temp__$1,t__$1,w1,h1,temp,map__20133,map__20133__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
+});})(w2,idxH1,idxH2,temp__$1,t__$1,w1,h1,temp,map__21589,map__21589__$1,gs,w,h,u,v,du,dv,f,k,is_tilling))
 ,temp__$1,cljs.core.range.call(null,(0),h));
 })());
-var tu = cljs.core.nth.call(null,vec__20135,(0),null);
-var tv = cljs.core.nth.call(null,vec__20135,(1),null);
+var tu = cljs.core.nth.call(null,vec__21591,(0),null);
+var tv = cljs.core.nth.call(null,vec__21591,(1),null);
 return cljs.core.assoc.call(null,gs,new cljs.core.Keyword(null,"u","u",-1156634785),cljs.core.persistent_BANG_.call(null,tu),new cljs.core.Keyword(null,"v","v",21465059),cljs.core.persistent_BANG_.call(null,tv));
 });
-var start__19203__auto___20152 = cljs.core.system_time.call(null);
-var ret__19204__auto___20153 = (function (){
+var start__19203__auto___21608 = cljs.core.system_time.call(null);
+var ret__19204__auto___21609 = (function (){
 geom.grayscott.core.upd.call(null,geom.grayscott.core.grayscott.call(null,(200),(200)),(1));
 
 return null;
 })()
 ;
-cljs.core.prn.call(null,[cljs.core.str("Elapsed time: "),cljs.core.str((cljs.core.system_time.call(null) - start__19203__auto___20152).toFixed((6))),cljs.core.str(" msecs")].join(''));
+cljs.core.prn.call(null,[cljs.core.str("Elapsed time: "),cljs.core.str((cljs.core.system_time.call(null) - start__19203__auto___21608).toFixed((6))),cljs.core.str(" msecs")].join(''));
 
 
 //# sourceMappingURL=core.js.map

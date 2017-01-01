@@ -68,7 +68,8 @@ goog.addDependency("../thi/ng/geom/polygon.js", ['thi.ng.geom.polygon'], ['thi.n
 goog.addDependency("../geom/grayscott/core_old.js", ['geom.grayscott.core_old'], ['cljs.core']);
 goog.addDependency("../geom/elements/core.js", ['geom.elements.core'], ['thi.ng.geom.core', 'cljs.core', 'thi.ng.geom.svg.core', 'thi.ng.geom.core.vector', 'thi.ng.math.core']);
 goog.addDependency("../geom/misc/clip_path_bug.js", ['geom.misc.clip_path_bug'], ['hipo.core', 'hiccups.runtime', 'cljs.core', 'thi.ng.geom.svg.core', 'dommy.core', 'thi.ng.domus.core']);
-goog.addDependency("../geom/grayscott/core.js", ['geom.grayscott.core'], ['cljs.core']);
+goog.addDependency("../thi/ng/typedarrays/core.js", ['thi.ng.typedarrays.core'], ['cljs.core']);
+goog.addDependency("../geom/grayscott/core.js", ['geom.grayscott.core'], ['cljs.core', 'thi.ng.typedarrays.core']);
 goog.addDependency("../geom/utils/colors.js", ['geom.utils.colors'], ['thi.ng.color.core', 'goog.net.XhrIo', 'cljs.core', 'thi.ng.color.presets', 'cljsjs.d3']);
 goog.addDependency("../geom/grayscott/test.js", ['geom.grayscott.test'], ['thi.ng.geom.polygon', 'thi.ng.color.core', 'thi.ng.geom.webgl.animator', 'geom.grayscott.core', 'cljs.core', 'thi.ng.geom.svg.core', 'geom.utils.svg', 'geom.utils.from_d3', 'geom.utils.colors', 'thi.ng.domus.core']);
 goog.addDependency("../geom/elements/particle.js", ['geom.elements.particle'], ['thi.ng.geom.webgl.animator', 'thi.ng.geom.core', 'cljs.core', 'thi.ng.math.simplexnoise', 'thi.ng.geom.svg.core', 'thi.ng.geom.core.vector', 'thi.ng.math.core', 'geom.NOC.utils', 'thi.ng.geom.circle', 'thi.ng.domus.core']);

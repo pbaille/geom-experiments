@@ -187,7 +187,7 @@
                                         vor)))))
                true))))
 
-(comment (moving-voro5 {:width 600 :height 600 :n 300}))
+(comment (moving-voro5 {:width 600 :height 600 :n 100}))
 
 (defn moving-voro6 [{:keys [n-calm n-nervous width height]}]
   (let [state (atom {:calm-seeds    (vec (rand-particles n-calm [width height] blues))

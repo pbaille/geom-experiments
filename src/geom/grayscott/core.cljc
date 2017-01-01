@@ -1,6 +1,8 @@
 (ns geom.grayscott.core
-  #?(:clj (:require [thi.ng.math.macros :as mm])
-     :cljs (:require-macros [thi.ng.math.macros :as mm])))
+  #?(:clj
+           (:require [thi.ng.math.macros :as mm])
+     :cljs (:require-macros [thi.ng.math.macros :as mm]))
+  #?(:cljs (:require [thi.ng.typedarrays.core :as a])))
 
 (defn clip [min max n]
   (cond
@@ -28,13 +30,13 @@
   (assoc gs :f f :k k :du du :dv dv))
 
 (def grayscott-defaults
-  {:f 0.023
-   :k 0.077
-   :du 0.095
-   :dv 0.03
+  {:f          0.023
+   :k          0.077
+   :du         0.095
+   :dv         0.03
    :is-tilling false
-   :get-f (fn [this _ _] (:f this))
-   :get-k (fn [this _ _] (:k this))})
+   :get-f      (fn [this _ _] (:f this))
+   :get-k      (fn [this _ _] (:k this))})
 
 (defn grayscott [w h & [opts]]
   (let [cnt (* w h)
@@ -163,3 +165,45 @@
 (time (do (upd (grayscott 200 200) 1) nil))
 ;;=> "Elapsed time: 767.065000 msecs"
 
+(comment
+  "try with typed arrays but no improvement"
+  #?(:cljs
+     (defn upd2 [{:keys [w h u v du dv f k is-tilling] :as gs} t]
+       (let [t (clip 0 1 t)
+             w1 (dec w)
+             h1 (dec h)
+
+             [tu tv] (reduce (fn [[tu tv] [x y]]
+                               (let [idx (+ x (* y w))
+                                     top (- idx w)
+                                     bottom (+ idx w)
+                                     left (dec idx)
+                                     right (inc idx)
+                                     f (get-f gs x y)
+                                     k (get-k gs x y)
+                                     cu (get u idx)
+                                     cv (get v idx)
+                                     d2 (* cu cv cv)]
+
+                                 [(aset tu idx (max 0 (+ cu
+                                                         (* t
+                                                            (+ (- (* du (- (mm/add (get u right) (get u left) (get u bottom) (get u top))
+                                                                           (* 4 cu)))
+                                                                  d2)
+                                                               (* f (- 1.0 cu)))))))
+
+
+                                  (aset tv idx (max 0 (+ cv
+                                                         (* t
+                                                            (- (+ (* dv (- (mm/add (get v right) (get v left) (get v bottom) (get v top))
+                                                                           (* 4 cv)))
+                                                                  d2)
+                                                               (* k cv))))))]))
+                             [(a/float32 u) (a/float32 v)]
+                             (for [x (range 1 w1)
+                                   y (range 1 h1)]
+                               [x y]))]
+         (assoc gs :u tu
+                   :v tv))))
+
+  (time (do (upd2 (grayscott 200 200) 1) nil)))

@@ -13,6 +13,7 @@
                  [cljsjs/d3 "3.5.7-1"]
                  [hiccups "0.3.0"]
                  [hipo "0.5.2"]
-                 [prismatic/dommy "1.1.0"]]
+                 [prismatic/dommy "1.1.0"]
+                 [thi.ng/typedarrays "0.1.1"]]
   :plugins [[lein-cljsbuild "1.1.0"]]
   :source-paths ["src" "script"] )
