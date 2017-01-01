@@ -1,2 +1,0 @@
-;; Analyzed by ClojureScript 1.7.145
-{:name thi.ng.color.version, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires nil, :imports nil, :defs {version {:name thi.ng.color.version/version, :file "resources/public/js/thi/ng/color/version.cljc", :line 3, :column 1, :end-line 3, :end-column 13, :meta {:file "/Users/pierre/Code/Clojure/geom/resources/public/js/thi/ng/color/version.cljc", :line 3, :column 6, :end-line 3, :end-column 13}}}}

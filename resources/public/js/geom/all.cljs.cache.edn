@@ -1,2 +1,0 @@
-;; Analyzed by ClojureScript 1.7.228
-{:name geom.all, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {geom.NOC.all geom.NOC.all, geom.sketches.delaunay1 geom.sketches.delaunay1, geom.sketches.voronoi1 geom.sketches.voronoi1, geom.elements.core geom.elements.core, geom.sketches.flowers geom.sketches.flowers}, :imports nil}
